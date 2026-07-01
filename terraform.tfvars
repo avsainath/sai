@@ -1,0 +1,16 @@
+vpcip1 = "10.0.0.0/16"
+subnetid = "10.0.1.0/24"
+subname = "Subnet"
+vpcname = "VPC"
+igname = "IG1"
+rtid = "0.0.0.0/0"
+rtname = "rt1"
+ssh_cidr = ["0.0.0.0/0"]
+icmp_cidr = ["0.0.0.0/0"]
+egress_cidr = ["0.0.0.0/0"]
+sgname = "sg"
+aws_region = "ap-south-1"
+amiid  = "ami-01a00762f46d584a1"
+instancetype = "t3.micro"
+instance_name = "ec2"
+keyname = "sainath"
